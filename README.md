@@ -1,13 +1,11 @@
 ## Problem Statement: Master Plan
 ### ep0_daoTeaching
 
-hu3agency publishes biomimicry frameworks at the leading edge of platform engineering, permaculture design, portfolio marketing, and civil engineering. Our processes explore the key challenges and existential threats facing humanity, and the underlying problems with current approaches for addressing them. We deploy open source experiments to demonstrate how our social systems and institutions can be redesigned to ensure free, open, non-authoritarian sociaties will thrive.
-
-> At no other point in history has humanity faced such a wide range of novel catastrophic risks. Our civilization has never been more vast, complicated, and fragile. This systemic fragility is exacerbated by new technologies, geopolitical instability, an ecological crisis and a reliance on global economic supply chains. These interlocking, interrelated problems are known collectively as the metacrisis. The Consilience Project’s primary aim is to clarify and reveal the nature of the metacrisis to enable comprehensive solutions to global problems. Our work recognizes the interconnectedness of humanity’s challenges: any solution must factor the underlying drivers of each one.
-
-hu3agency's primary aim is to translate the research of the Consilience Project surrounding the metacrisis into Parallel Permaculture Platforms Ecosystems (p3cosystems) that enable anyone to create comprehensive solutions that aim to identify and address the root causes of the metacrisis. 
+hu3agency publishes biomimicry frameworks at the leading edge of platform design, supply chain management, ecosystem marketing, and citywide planning. Our projects explore the key challenges and existential threats facing humanity, and the underlying problems with current approaches for addressing them. We deploy open source experiments to learn how our social systems and institutions can be redesigned to ensure free, open, non-authoritarian sociaties can thrive.
 
 ### What does hu3agency believe is the root cause of the metacrisis?
+
+At no other point in history has humanity faced such a wide range of novel catastrophic risks. Our civilization has never been more vast, complicated, and fragile. This systemic fragility is exacerbated by new technologies, geopolitical instability, an ecological crisis and a reliance on global economic supply chains. These interlocking, interrelated problems are known collectively as the metacrisis. The Consilience Project’s primary aim is to clarify and reveal the nature of the metacrisis to enable comprehensive solutions to global problems. Our work recognizes the interconnectedness of humanity’s challenges: any solution must factor the underlying drivers of each one.
 
 We believe it's easy to get caught up in the chaotic surface level problems that we're inundated with every day, but working on any of them without strong sense of the root cause is a waste of time. At hu3agency, the singularity of the metacrisis is ego. 
 
