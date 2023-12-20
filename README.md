@@ -1,7 +1,7 @@
 ## Problem Statement: Master Plan
 ### ep0_daoTeaching
 
-hu3agency publishes biomimicry frameworks at the leading edge of platform design, supply chain management, ecosystem marketing, and citywide planning. Our projects explore the key challenges and existential threats facing humanity, and the underlying problems with current approaches for addressing them. We deploy open source experiments to learn how our social systems and institutions can be redesigned to ensure free, open, non-authoritarian sociaties can thrive.
+hu3agency publishes frameworks for people who want to create self-soverign communities using best practices from platform design, supply chain management, ecosystem marketing, and citywide planning. Our frameworks enable anyone to identify the key challenges facing humanity and transform them into open source experiments that explore how our social systems and institutions can be redesigned to ensure free, open, non-authoritarian sociaties can thrive.
 
 ### What does hu3agency believe is the root cause of the metacrisis?
 
