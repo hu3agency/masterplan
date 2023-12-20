@@ -26,18 +26,36 @@ PROVIDER   | Mind   | Civil Chains
 
 We'll explore each problem below.
 
-### The Investment Chain is Humanity's Spirit
+### Spirit : Human :: Investment Chains : Humanity
 
-Individuals being disconnected from spirit manifests itself on a societal scale as corrupt institutions that are more invested in accepting money from lobbyists that give them more power regardless of the destructive consequences. While many people can admit institutions are corrup, we invest an overwhelming amount of time and energy in "us vs. them" dynamics without addressing the underlying corruption that supports both "sides" of any issue. 
+Spirit is to a human as investment chains are to humanity. 
 
-### The Supply Chain is Humanity's Soul
+hu3agency's model explores investment chains as projections of the human spirit. The problem is that humans are disconnected from spirit. This disconnection manifests itself on a societal scale with an investment chain that incentivizes destructive and corrupt behavior in centralized institutions.
 
-When people are disconnected from the soul, it shows up collectively as smallholder farmers being disconnected from sustainable supply chains. Currently, farmers are overly dependent on centralized supply chains that take away the autonomy over the raw materials that are the source of every civilizations prosperity.
+### Soul : Human :: Supply Chains : Humanity
 
-### The Value Chain is Humanity's Body
+Soul is to a human as supply chains are to humanity.
 
-Continuing from soul, the body represents value chains. Ego-driven disconnection manifests as Small & Medium Enterprises being excluded by corrupt regulations. We aim to break down these barriers, ensuring fair and inclusive participation in profitable value chains.
+If we think of supply chains as large scale models of the human soul, then the problem is that humans are disconnected from soul. We see the shifts in climate as a symptom of the deeper problem: farmers -- the source of our civilization's energy -- are the stewards of the planet, but have all of their autonomy stripped away with unsustainable supply chains.
 
-### The Civil Chain is Humanity's Mind
+### Body : Human :: Value Chains : Humanity
 
-The abstract challenge of disconnection from the creative structures that shape our civilization, i.e., cities, is addressed through the mind or citywide planning, known as the "civil chain." Disconnection manifests as limited opportunities for individuals and families to influence the inaccessible civil chains shaping their future. Our objective is to empower communities to actively shape the spaces defining their lives.
+Body is to a human as value chains are to humanity.
+
+hu3agency models value chains as an reflection of the human body. This presents a challenge when many are disconnected from the body. As a result, value chains are aligned with corrupt regulations that marginalize the companies that make up the largest part of humanity's workforce, Small & Medium Enterprises (SMEs), further centralizing power to historically corrupt corporations. 
+
+### Mind : Human :: Civil Chains : Humanity
+
+Mind is the a human as civil chains are to humanity.
+
+The communities we live in are an outward projection of humanity's collective mind. If our cities are a projection of our collective minds, and mental health is a growing problem, then the fact that civil chains (citywide planning) are overwhelmingly controlled by corrupt institutions with little to no input from individuals, we're at risk of creating cities that perpetuate our problems instead of solving them.
+
+### What is missing?
+
+This is one attempt at summarizing the problems facing society. The problem is that we either have think tanks that talk about this at length, or traditional companies that are only interested in a narrow view of the problem. 
+
+After taking the time to draw parallels between a human and humanity, what do we think is missing?
+
+The Planet
+
+Next, we'll present the permaculture process that transforms these parallel relationships into a platform ecosystem.
