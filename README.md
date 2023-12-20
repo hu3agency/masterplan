@@ -26,18 +26,18 @@ PROVIDER   | Mind   | Civil Chains
 
 We'll explore each problem below.
 
-### How does hu3agency define the Spirit/ Institution problem?
+### The Investment Chain is Humanity's Spirit
 
 Individuals being disconnected from spirit manifests itself on a societal scale as corrupt institutions that are more invested in accepting money from lobbyists that give them more power regardless of the destructive consequences. While many people can admit institutions are corrup, we invest an overwhelming amount of time and energy in "us vs. them" dynamics without addressing the underlying corruption that supports both "sides" of any issue. 
 
-### How does hu3agency define the Soul/ Supply Chain problem?
+### The Supply Chain is Humanity's Soul
 
 When people are disconnected from the soul, it shows up collectively as smallholder farmers being disconnected from sustainable supply chains. Currently, farmers are overly dependent on centralized supply chains that take away the autonomy over the raw materials that are the source of every civilizations prosperity.
 
-### How does hu3agency define the Body/ Value Chain problem?
+### The Value Chain is Humanity's Body
 
 Continuing from soul, the body represents value chains. Ego-driven disconnection manifests as Small & Medium Enterprises being excluded by corrupt regulations. We aim to break down these barriers, ensuring fair and inclusive participation in profitable value chains.
 
-### How does hu3agency define the Mind/ Civil Chain problem?
+### The Civil Chain is Humanity's Mind
 
 The abstract challenge of disconnection from the creative structures that shape our civilization, i.e., cities, is addressed through the mind or citywide planning, known as the "civil chain." Disconnection manifests as limited opportunities for individuals and families to influence the inaccessible civil chains shaping their future. Our objective is to empower communities to actively shape the spaces defining their lives.
