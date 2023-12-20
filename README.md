@@ -32,11 +32,11 @@ We'll explore each problem below.
 
 ### How does hu3agency define the Spirit/ Institution problem?
 
-In the abstract realm, Humanity's disconnection from the unseen force that sustains life poses a challenge. We define spirit as institutions, the unseen drivers behind societal functions. When ego disconnects us from spirit, it manifests as destructive behaviors from corrupt institutions. By addressing this, we aim to shift the power dynamics for the benefit of all.
+Individuals being disconnected from spirit manifests itself on a societal scale as corrupt institutions that are more invested in accepting money from lobbyists that give them more power regardless of the destructive consequences. While many people can admit institutions are corrup, we invest an overwhelming amount of time and energy in "us vs. them" dynamics without addressing the underlying corruption that supports both "sides" of any issue. 
 
 ### How does hu3agency define the Soul/ Supply Chain problem?
 
-Another abstract challenge is Humanity's disconnection from the source of everything created collectively. Soul is represented by supply chains, the origin of our collective creations. Ego-driven disconnection from soul manifests as smallholder farmers losing autonomy over sustainable supply chains. Our goal is to empower these crucial sources to regain control.
+When people are disconnected from the soul, it shows up collectively as smallholder farmers being disconnected from sustainable supply chains. Currently, farmers are overly dependent on centralized supply chains that take away the autonomy over the raw materials that are the source of every civilizations prosperity.
 
 ### How does hu3agency define the Body/ Value Chain problem?
 
