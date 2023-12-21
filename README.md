@@ -1,4 +1,4 @@
-## Problem Statement: Master Plan
+## Master Plan: Problem Statement
 
 At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform humanity's problems into platforms that redesign our institutions to be more free and open source. 
 
