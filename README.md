@@ -1,4 +1,52 @@
-## Master Plan: Problem Statement
+# hu3agency: we're all right // Master Plan
+
+## Table of Contents
+### OWNER - Investment Chain
+#### Introduction
+* [Problems](#problem-statement)
+* Processes
+* Products
+#### Opportunity
+* Market Survey
+* Competition
+* Why Us?
+#### Competitive Advantage
+* Parallel Supply Chain
+* Permaculture Value Chain
+* Platform Civil Chain
+#### Go-To-Market Strategy
+* Objectives
+* Public Private Partnerships
+* Digital Twins
+### PRODUCER - Supply Chain
+#### Management
+* Work Breakdown Structure
+* Schedule
+* Logistics
+#### Design
+* Research
+* Drawings
+* Specifications
+### CONSUMER - Value Chain
+#### Marketing
+* Risk Assessment
+* Mitigation Strategy
+* Contingency Plan
+#### Sales
+* Ask
+* Financials
+* Use of Funds
+### PROVIDER - Civil Chain
+#### Real Estate Development
+* Site Selection
+* Land Acquisition
+* Permitting
+#### Construction Management
+* Build
+* Operations
+* Maintenence
+
+## Problem Statement
 
 At **hu3agency: We're All Right**, we publish frameworks for people interested in creating **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and civil engineering, our frameworks enable anyone to transform humanity's problems into platforms that redesign our institutions to be more free and open source. 
 
