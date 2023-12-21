@@ -47,10 +47,8 @@ Mind is the a human as civil chains are to humanity.
 
 The communities we live in are an outward projection of humanity's collective mind. If our cities are a projection of our collective minds, and mental health is a growing problem, then the fact that civil chains (citywide planning) are overwhelmingly controlled by corrupt institutions with little to no input from individuals, we're at risk of creating cities that perpetuate our problems instead of solving them.
 
-### What is missing?
+### What are these models missing?
 
-This is our perspective of what's causing humanity's problems. After taking the time to draw parallels between the human ego and humanity's metacrisis, what do we think is missing?
+This is our perspective of what's causing humanity's problems. After taking the time to draw parallels between the human ego and humanity's metacrisis, what do we think is missing from our current model?
 
 The Planet
-
-Humanity is disconnected from the human processes , and humans arehave lost their connection to the planetary processes that produced us. Can we use The Planet as a process to solve for ego and the metacrisis at the same time?
