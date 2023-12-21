@@ -2,7 +2,7 @@
 
 ## Table of Contents
 **Groove** |  Verse 1 | Verse 2 | Verse 3  
-:--- | :--- | :--- | :--- 
+:--- | :--- | :--- | :---   
 **Introduction**  | [Problems](#problem-statement) | Processes | Products 
 **Opportunity**  | Market Survey | Competition | Why Us? 
 **Competitive Advantage**  | Parallel Supply Chain | Permaculture Value Chain | Civil Chain Platform
