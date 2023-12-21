@@ -1,16 +1,14 @@
 ## Master Plan: Problem Statement
 
-At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform humanity's problems into platforms that redesign our institutions to be more free and open source. 
-
-Ultimately, we want everyone to have access to the tools needed to create self-sovereign cities on all seven continents and throughout the cosmos.
+At **hu3agency: We're All Right**, we publish frameworks for people interested in creating **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and civil engineering, our frameworks enable anyone to transform humanity's problems into platforms that redesign our institutions to be more free and open source. 
 
 ### What problem does hu3agency think needs to be solved?
 
 hu3agency's problem can be described in four layers:
-1. The human ego is extremely good at identifying and treating symptoms, but doesn't invest in understanding the true source of its problems
-2. [The Consilience Project](https://consilienceproject.org/about-the-project/) supplies ongoing research exploring the source of humanity's problems (The Metacrisis), but isn't focused on value added frameworks to implement solutions   
-3. hu3agency focuses on creating value added frameworks to implment solutions to humanity's problems, but since we're just one project, our limited perspective will never represent a comprehensive solution for civilization
-4. [ourStory: Everything Is Music](https://github.com/ourStoryNetwork) is a "civil media" game that enables anyone to use hu3agency's frameworks to develop personalized solutions for civilization, but we need more people who are interested in playing the game
+1. The human ego is more invested in treating symptoms than understanding the underlying causes to humanity's problems
+2. [The Consilience Project](https://consilienceproject.org/about-the-project/) explores the underlying causes of humanity's problems (The Metacrisis), but doesn't offer frameworks to implement solutions   
+3. hu3agency offers frameworks to implement solutions, but since we're just one project, we can only provide a limited perspective on for potential solutions
+4. [ourStory: Everything Is Music](https://github.com/ourStoryNetwork) is an open source platform for generating unlimited perspectives based on hu3agency a "civil media" game that enables anyone to use hu3agency's frameworks to develop personalized solutions for civilization, but we need more people who are interested in playing the game
 
 To simplify all of this, let's combine #1 and #2 into a single problem statemet for hu3agency: Human Ego Causes Humanity's Metacrisis.
 
