@@ -1,20 +1,20 @@
 ## Problem Statement: Master Plan
 
-At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform the humanity's problems into tangible products that redesign our institutions to be more free, open source, and non-authoritarian.
+At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform humanity's problems into tangible products that redesign our institutions to be more free, open source, and non-authoritarian.
 
 ### What problem does hu3agency think needs to be solved?
 
 hu3agency's problem can be described in four layers:
-1. The human ego is extremely good at identifying and treating symptoms, but doesn't invest in understanding the true source of problems
+1. The human ego is extremely good at identifying and treating symptoms, but doesn't invest in understanding the true source of its problems
 2. [The Consilience Project](https://consilienceproject.org/about-the-project/) supplies ongoing research exploring the source of humanity's problems (The Metacrisis), but isn't focused on value added frameworks to implement solutions
-3. hu3agency: We're All Right focuses on creating value added frameworks to implment solutions, but our limited perspective can never represent an acurate solution for civilization
-4. [ourStory: Everything Is Music](https://github.com/ourStoryNetwork) enables anyone to use hu3agency's frameworks to develop their own solution for civilization, but we need people who are commited to sharing their perspective
+3. hu3agency focuses on creating value added frameworks to implment solutions to humanity's problems, but since we're just one project, our limited perspective will never represent a comprehensive solution for civilization
+4. [ourStory: Everything Is Music](https://github.com/ourStoryNetwork) is a "civil media" game that enables anyone to use hu3agency's frameworks to develop personalized solutions for civilization, but we need more people who are interested in playing the game
 
-To simplify all of this, let's combine #1 and #2 in a simple problem statemet for hu3agency: Human Ego Causes Humanity's Metacrisis. How can we make this more tangible?
+To simplify all of this, let's combine #1 and #2 into a single problem statemet for hu3agency: Human Ego Causes Humanity's Metacrisis.
 
 ### Human Ego Causes Humanity's Metacrisis
 
-We think that Humanity's challenges (The Metacrisis) as a larger projection of the challenges every person faces in their in their day to day life (The Ego). To explore this, we're using the following platform model that relates the human ego to humanity's metacrisis:
+We think that Humanity's challenges (The Metacrisis) as a larger projection of the challenges individuals faces in their in their day to day lives (The Ego). To explore this, we're using the following platform model that relates the human ego to humanity's metacrisis:
 
 Platform Model | Human Ego | Humanity's Metacrisis  
 --- | --- | :--- 
@@ -23,9 +23,9 @@ PRODUCER   | Soul   | Supply Chains
 CONSUMER   | Body   | Value Chains 
 PROVIDER   | Mind   | Civil Chains 
 
-hu3agency's framework models the human ego as as a disconnection from spirit, soul, body, and mind. We then translate this into a **parallel** model at the collective level to model Humanity's metacrisis as corruption of our investment, supply, value, and civil chains.
+hu3agency's frameworks discuss the human ego as as a disconnection from spirit, soul, body, and mind. Then, we translate this into a **parallel** model to represent Humanity's metacrisis as corruption of our investment, supply, value, and civil chains.
 
-Let's dive into each **parallel** mental models below.
+Let's dive into each of the **parallel** mental models below.
 
 ### Spirit : Human :: Investment Chains : Humanity
 Spirit is to a human as investment chains are to humanity. 
