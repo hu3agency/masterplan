@@ -1,6 +1,8 @@
 ## Problem Statement: Master Plan
 
-At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform humanity's problems into platforms that redesign our institutions to be more free and open source. Ultimately, we want everyone to have access to the tools needed to create self-sovereign cities on all seven continents and throughout the cosmos.
+At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform humanity's problems into platforms that redesign our institutions to be more free and open source. 
+
+Ultimately, we want everyone to have access to the tools needed to create self-sovereign cities on all seven continents and throughout the cosmos.
 
 ### What problem does hu3agency think needs to be solved?
 
