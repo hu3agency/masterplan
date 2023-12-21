@@ -1,12 +1,12 @@
 ## Problem Statement: Master Plan
 
-At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform humanity's problems into tangible products that redesign our institutions to be more free, open source, and non-authoritarian.
+At **hu3agency: We're All Right**, we publish frameworks for creative people who are curious about developing **parallel** societies. Using platform design, supply chain management, ecosystem marketing, and citywide planning, our open source frameworks enable anyone to identify and transform humanity's problems into platforms that redesign our institutions to be more free and open source.
 
 ### What problem does hu3agency think needs to be solved?
 
 hu3agency's problem can be described in four layers:
 1. The human ego is extremely good at identifying and treating symptoms, but doesn't invest in understanding the true source of its problems
-2. [The Consilience Project](https://consilienceproject.org/about-the-project/) supplies ongoing research exploring the source of humanity's problems (The Metacrisis), but isn't focused on value added frameworks to implement solutions
+2. [The Consilience Project](https://consilienceproject.org/about-the-project/) supplies ongoing research exploring the source of humanity's problems (The Metacrisis), but isn't focused on value added frameworks to implement solutions   
 3. hu3agency focuses on creating value added frameworks to implment solutions to humanity's problems, but since we're just one project, our limited perspective will never represent a comprehensive solution for civilization
 4. [ourStory: Everything Is Music](https://github.com/ourStoryNetwork) is a "civil media" game that enables anyone to use hu3agency's frameworks to develop personalized solutions for civilization, but we need more people who are interested in playing the game
 
