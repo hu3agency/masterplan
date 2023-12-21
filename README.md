@@ -5,14 +5,14 @@
 :--- | :--- | :--- | :---   
 **Introduction**  | [Problems](#problem-statement) | Processes | Products 
 **Opportunity**  | Market Survey | Competition | Why Us? 
-**Competitive Advantage**  | Parallel Supply Chain | Permaculture Value Chain | Civil Chain Platform
-**Go-To-Market Strategy**  | Objectives | Public Private Partnerships | Digital Twins
-**Management**  | Work Breakdown Structure | Schedule | Logistics
-**Design**  | Research | Drawings | Specifications
-**Marketing**  | Risk Assessment | Mitigation Strategy | Contingency Plan
-**Sales**  | Ask | Financials | Use of Funds
-**Real Estate Development**  | Site Selection | Land Acquisition | Permitting
-**Construction Management**  | Build | Operate | Maintain
+**Competitive Advantage**  | Parallel Supply Chain | Permaculture Value Chain | Civil Chain Platform  
+**Go-To-Market Strategy**  | Objectives | Public Private Partnerships | Digital Twins  
+**Management**  | Work Breakdown Structure | Schedule | Logistics  
+**Design**  | Research | Drawings | Specifications  
+**Marketing**  | Risk Assessment | Mitigation Strategy | Contingency Plan  
+**Sales**  | Ask | Financials | Use of Funds  
+**Real Estate Development**  | Site Selection | Land Acquisition | Permitting  
+**Construction Management**  | Build | Operate | Maintain  
 
 # Introduction
 ## Problem Statement
